@@ -6,3 +6,8 @@ Games
  God Of War
  Farcry
  Spiderman 
+
+GOT
+Mind Hunter
+Ozark
+
